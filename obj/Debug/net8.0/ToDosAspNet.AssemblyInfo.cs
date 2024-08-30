@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDosAspNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d1c48df96f6d5c2b01d6f1c29cc285c9c433a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebcca035eb7c9554c13b4eb407c4897ad1238a4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDosAspNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDosAspNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+--2024-08-28 13:32:29--  https://packages.microsoft.com/keys/microsoft.asc
+Resolvendo packages.microsoft.com (packages.microsoft.com)... 2620:1ec:bdf::33, 13.107.246.33
+Conectando-se a packages.microsoft.com (packages.microsoft.com)|2620:1ec:bdf::33|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 983 [application/octet-stream]
+Salvando em: ‘STDOUT’
+
+-                     0%[                    ]       0  --.-KB/s               -                   100%[===================>]     983  --.-KB/s    em 0s      
+
+2024-08-28 13:32:29 (266 MB/s) - escrito para a saída padrão  [983/983]
+
